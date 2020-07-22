@@ -12,4 +12,4 @@
 
 # Foto Terbaik Yang Ada
 
-https://github.com/ahmaduunnail/Perkenalan/blob/master/20191110_143751.jpg
+![alt text](https://github.com/ahmaduunnail/Perkenalan/blob/master/20191110_143751.jpg)
