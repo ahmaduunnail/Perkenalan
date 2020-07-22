@@ -1,13 +1,13 @@
 # Perkenalan
 
-#Nama: Ahmadun Na'il
+# Nama: Ahmadun Na'il
 
-#Tempat, Tanggal Lahir: Kediri, 06 Juli 2004
+# Tempat, Tanggal Lahir: Kediri, 06 Juli 2004
 
-#Alamat Asal: Jl. Imam Bonjol, Tembarak, Kertosono, Nganjuk
+# Alamat Asal: Jl. Imam Bonjol, Tembarak, Kertosono
 
-#Hobi: Mendengarkan Musik, Bermain Games
+# Hobi: Bermain Game, Mendengarkan musik, Mendesain aplikasi
 
-#IG: @naelsss
+# IG: @naelsss
 
-#Foto Terbaik Yang Ada
+# Foto Terbaik Yang Ada
